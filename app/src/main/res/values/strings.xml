@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_1">kola</string>
+    <string name="dog_2">anna</string>
+    <string name="dog_3">frankie</string>
+    <string name="dog_4">tom</string>
+    <string name="dog_5">richy</string>
+    <string name="dog_6">tomy</string>
+    <string name="dog_7">recky</string>
+    <string name="dog_8">kiki</string>
+    <string name="dog_9">moli</string>
+    <string name="age"> %s years old </string>
+    <string name="about">About:\n</string>
+    <string name="hobby">playing with owner</string>
+</resources>
